@@ -40,7 +40,7 @@ export default class MyDocument extends Document {
           <footer style={{position:'relative',top:'-40px'}}>
             <p class="attribution">
               Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-              Coded by <a href="#">Your Name Here</a>.
+              Coded by <a href="#">Angel Murillo</a>.
             </p>
           </footer>
         </body>
