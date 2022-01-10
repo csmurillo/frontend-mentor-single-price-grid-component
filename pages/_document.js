@@ -34,7 +34,7 @@ export default class MyDocument extends Document {
           {this.props.styleTags}
           
         </Head>
-        <body style={{margin:'0 auto',width:'100%', height:'100%', backgroundColor:'hsl(218, 22%, 67%)'}}>
+        <body style={{margin:'0 auto',width:'100%', height:'100%', backgroundColor:'hsl(204, 43%, 93%)'}}>
           <Main/>
           <NextScript />
           <footer style={{position:'relative',top:'-40px'}}>
