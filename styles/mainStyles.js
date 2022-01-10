@@ -119,6 +119,7 @@ padding-bottom:5px;
     font-size:.9em;
 }
 `;
-export{Container,Main,ContainerOne,TitleOne,SubTitleOne,
+
+export{ Container,Main,ContainerOne,TitleOne,SubTitleOne,
     ContentOne,ContainerTwo,ContentTwo,SubscriptionPrice,TitleTwo,Span,
-    ContainerThree,Button,ButtonContainer,Links,LinkContainer,TitleThree};
+    ContainerThree,Button,ButtonContainer,Links,LinkContainer,TitleThree };

@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import {Container,Main,ContainerOne,TitleOne,SubTitleOne,
+import { Container,Main,ContainerOne,TitleOne,SubTitleOne,
     ContentOne,ContainerTwo,ContentTwo,SubscriptionPrice,TitleTwo,Span,
-    ContainerThree,Button,ButtonContainer,Links,LinkContainer,TitleThree} from '../styles/mainStyles';
+    ContainerThree,Button,ButtonContainer,Links,LinkContainer,TitleThree } from '../styles/mainStyles';
 export default () => (
   <>
     <Head>
