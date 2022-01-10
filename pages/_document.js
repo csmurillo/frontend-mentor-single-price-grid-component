@@ -24,11 +24,10 @@ export default class MyDocument extends Document {
     return (
     <Html style={{width:'100%', height:'100%'}}>
         <Head>
-          <title>My page</title>
           <style>{`
-          @media (min-width: 768px) {
-            #__next { height: 100%; width:100%; min-height:700px; }
-          }
+            @media (min-width: 768px) {
+              #__next { height: 100%; width:100%; min-height:700px; }
+            }
           `}
           </style>
           {/* Step 5: Output the styles in the head  */}
